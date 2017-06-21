@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bessel": "0.2.0",
-    "jStat": "^1.6.2",
+    "jStat": "git+https://github.com/codegraft/jstat.git",
     "numeral": "^2.0.6",
     "numeric": "1.2.6"
   },
