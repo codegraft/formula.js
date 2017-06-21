@@ -14,7 +14,7 @@
   "dependencies": {
     "bessel": "0.2.0",
     "jStat": "1.0.6",
-    "numeral": "1.5.3",
+    "numeral": "^2.0.6",
     "numeric": "1.2.6"
   },
   "devDependencies": {
